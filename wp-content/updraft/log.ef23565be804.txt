@@ -1,0 +1,7 @@
+0000.000 (1) Opened log file at time: Thu, 26 Nov 2026 07:55:57 +0000 on http://localhost/jardi-creation
+0000.003 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.26.16 WP: 6.7.2 PHP: 8.3.36 (apache2handler, Windows NT AMW-WKS-RRA-2 10.0 build 26200 (Windows 11) AMD64) MySQL: 10.11.16-MariaDB (max packet size=33554432) WPLANG: fr_FR Server: Apache/2.4.65 (Win64) OpenSSL/3.5.1 PHP/8.3.36 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 3.5M | 12M) multisite: N openssl: OpenSSL 3.0.22 25 Aug 2026 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.005 (1) Free space on disk containing Updraft's temporary directory: 33351.1 MB
+0000.010 (1) Requesting backup semaphore lock (udp_backupjob_ef23565be804)
+0000.013 (1) [Debug] Lock option (updraft_lock_udp_backupjob_ef23565be804, wp_options) was created in the database
+0000.013 (1) [Info] Lock (updraft_lock_udp_backupjob_ef23565be804, wp_options) acquired after initialising the database
+0000.038 (1) This backup task (ef23565be804) is either complete or began over 2 days ago: ending (1795679757.1079, ) (existing jobdata keys: )

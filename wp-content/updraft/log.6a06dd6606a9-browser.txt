@@ -1,0 +1,559 @@
+0000.078 (R) [notice] Recherche de l’archive db : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-db.gz
+0000.080 (R) [notice] L’archive devrait avoir une taille de : 6264.9 KB: OK
+0000.086 (R) [notice] Recherche de l’archive mu-plugins : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-mu-plugins.zip
+0000.088 (R) [notice] L’archive devrait avoir une taille de : 0.4 KB: OK
+0000.093 (R) [notice] Recherche de l’archive plugins : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-plugins.zip
+0000.094 (R) [notice] L’archive devrait avoir une taille de : 25377.9 KB: OK
+0000.094 (R) [notice] Recherche de l’archive plugins : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-plugins2.zip
+0000.095 (R) [notice] L’archive devrait avoir une taille de : 18861.4 KB: OK
+0000.101 (R) [notice] Recherche de l’archive themes : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-themes.zip
+0000.105 (R) [notice] L’archive devrait avoir une taille de : 26269.6 KB: OK
+0000.106 (R) [notice] Recherche de l’archive themes : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-themes2.zip
+0000.108 (R) [notice] L’archive devrait avoir une taille de : 44.4 KB: OK
+0000.115 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads.zip
+0000.117 (R) [notice] L’archive devrait avoir une taille de : 25644.8 KB: OK
+0000.117 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads10.zip
+0000.118 (R) [notice] L’archive devrait avoir une taille de : 25889.7 KB: OK
+0000.119 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads11.zip
+0000.119 (R) [notice] L’archive devrait avoir une taille de : 25659.5 KB: OK
+0000.120 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads12.zip
+0000.121 (R) [notice] L’archive devrait avoir une taille de : 29183.3 KB: OK
+0000.121 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads13.zip
+0000.122 (R) [notice] L’archive devrait avoir une taille de : 25643.1 KB: OK
+0000.123 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads14.zip
+0000.124 (R) [notice] L’archive devrait avoir une taille de : 26078.6 KB: OK
+0000.124 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads15.zip
+0000.126 (R) [notice] L’archive devrait avoir une taille de : 26203.7 KB: OK
+0000.126 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads16.zip
+0000.127 (R) [notice] L’archive devrait avoir une taille de : 25638.6 KB: OK
+0000.127 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads17.zip
+0000.128 (R) [notice] L’archive devrait avoir une taille de : 26388.1 KB: OK
+0000.128 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads18.zip
+0000.129 (R) [notice] L’archive devrait avoir une taille de : 25634.3 KB: OK
+0000.130 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads19.zip
+0000.131 (R) [notice] L’archive devrait avoir une taille de : 25829.6 KB: OK
+0000.131 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads2.zip
+0000.133 (R) [notice] L’archive devrait avoir une taille de : 32394.1 KB: OK
+0000.134 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads20.zip
+0000.135 (R) [notice] L’archive devrait avoir une taille de : 25652.3 KB: OK
+0000.136 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads21.zip
+0000.137 (R) [notice] L’archive devrait avoir une taille de : 26539.9 KB: OK
+0000.137 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads22.zip
+0000.138 (R) [notice] L’archive devrait avoir une taille de : 25784.9 KB: OK
+0000.138 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads23.zip
+0000.139 (R) [notice] L’archive devrait avoir une taille de : 25840.3 KB: OK
+0000.140 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads24.zip
+0000.141 (R) [notice] L’archive devrait avoir une taille de : 25785.3 KB: OK
+0000.142 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads25.zip
+0000.143 (R) [notice] L’archive devrait avoir une taille de : 25783.4 KB: OK
+0000.143 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads26.zip
+0000.144 (R) [notice] L’archive devrait avoir une taille de : 25817.1 KB: OK
+0000.145 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads27.zip
+0000.146 (R) [notice] L’archive devrait avoir une taille de : 25686.5 KB: OK
+0000.146 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads28.zip
+0000.147 (R) [notice] L’archive devrait avoir une taille de : 25719.1 KB: OK
+0000.147 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads29.zip
+0000.148 (R) [notice] L’archive devrait avoir une taille de : 26266.2 KB: OK
+0000.149 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads3.zip
+0000.149 (R) [notice] L’archive devrait avoir une taille de : 25986.2 KB: OK
+0000.150 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads30.zip
+0000.151 (R) [notice] L’archive devrait avoir une taille de : 25755.8 KB: OK
+0000.151 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads31.zip
+0000.152 (R) [notice] L’archive devrait avoir une taille de : 25736.1 KB: OK
+0000.152 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads32.zip
+0000.153 (R) [notice] L’archive devrait avoir une taille de : 25735.7 KB: OK
+0000.153 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads33.zip
+0000.154 (R) [notice] L’archive devrait avoir une taille de : 25693.4 KB: OK
+0000.155 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads34.zip
+0000.155 (R) [notice] L’archive devrait avoir une taille de : 25754.6 KB: OK
+0000.156 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads35.zip
+0000.157 (R) [notice] L’archive devrait avoir une taille de : 2505.6 KB: OK
+0000.157 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads4.zip
+0000.158 (R) [notice] L’archive devrait avoir une taille de : 26026.3 KB: OK
+0000.158 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads5.zip
+0000.159 (R) [notice] L’archive devrait avoir une taille de : 25731 KB: OK
+0000.159 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads6.zip
+0000.160 (R) [notice] L’archive devrait avoir une taille de : 25771.6 KB: OK
+0000.161 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads7.zip
+0000.161 (R) [notice] L’archive devrait avoir une taille de : 25661.3 KB: OK
+0000.162 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads8.zip
+0000.163 (R) [notice] L’archive devrait avoir une taille de : 25684.2 KB: OK
+0000.163 (R) [notice] Recherche de l’archive uploads : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads9.zip
+0000.164 (R) [notice] L’archive devrait avoir une taille de : 25992.5 KB: OK
+0000.173 (R) [notice] Recherche de l’archive others : nom du fichier : backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-others.zip
+0000.176 (R) [notice] L’archive devrait avoir une taille de : 10965.1 KB: OK
+0000.184 (R) [notice] Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.191 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-db.gz, 6.1 Mb)
+0000.214 (R) [notice] Restauration de la base de données (cela peut prendre du temps si votre site est volumineux - en cas de dépassement de délai (ce qui arrive si votre hébergeur limite vos ressources), vous devrez utiliser une autre méthode comme phpMyAdmin)…
+0000.337 (R) [notice] Activation du mode maintenance&#8230;
+0000.399 (R) [notice] Sauvegarde de : https://jardi-creation.fr
+0000.422 (R) [notice] URL de contenu : https://jardi-creation.fr/wp-content
+0000.422 (R) [notice] URL des téléversements : https://jardi-creation.fr/wp-content/uploads
+0000.422 (R) [notice] Ancien préfixe des tables : wp_
+0000.422 (R) [notice] Ancien ABSPATH : /home/clients/a750890fd7f09a833d86bd4c7a6acfe0/sites/jardi-creation.fr/
+0000.423 (R) [notice] Slug de l’extension UpdraftPlus : updraftplus/updraftplus.php
+0000.423 (R) [notice] Information sur le site : multisite = 0
+0000.423 (R) [notice] Information sur le site : sql_mode = IGNORE_SPACE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0000.424 (R) [notice] New table prefix: zk_
+0000.439 (R) [notice] Traitement de la table (MyISAM):  wp_options - sera restauré comme : zk_options
+0001.207 (R) [notice] Atomic restore: dropping original table (wp_options)
+0001.232 (R) [notice] Atomic restore: renaming new table (zk_options) to final table name (wp_options)
+0001.371 (R) [notice] Elegant themes theme builder plugin data detected: resetting temporary folder
+0001.433 (R) [notice] Recherche et remplacement de table : wp_options: lignes : 653
+0001.563 (R) [notice] Traitement de la table (MyISAM):  wp_users - sera restauré comme : zk_users
+0001.587 (R) [notice] Atomic restore: dropping original table (wp_users)
+0001.598 (R) [notice] Atomic restore: renaming new table (zk_users) to final table name (wp_users)
+0001.629 (R) [notice] Recherche et remplacement de table : wp_users: lignes : 2
+0001.632 (R) [notice] Traitement de la table (MyISAM):  wp_usermeta - sera restauré comme : zk_usermeta
+0001.660 (R) [notice] Atomic restore: dropping original table (wp_usermeta)
+0001.674 (R) [notice] Atomic restore: renaming new table (zk_usermeta) to final table name (wp_usermeta)
+0001.710 (R) [notice] Recherche et remplacement de table : wp_usermeta: lignes : 91
+0001.715 (R) [notice] Traitement de la table (InnoDB):  wp_actionscheduler_actions - sera restauré comme : zk_actionscheduler_actions
+0001.761 (R) [notice] Atomic restore: dropping original table (wp_actionscheduler_actions)
+0001.770 (R) [notice] Atomic restore: renaming new table (zk_actionscheduler_actions) to final table name (wp_actionscheduler_actions)
+0001.812 (R) [notice] Recherche et remplacement de table : wp_actionscheduler_actions: lignes : 7
+0001.813 (R) [notice] Traitement de la table (InnoDB):  wp_actionscheduler_claims - sera restauré comme : zk_actionscheduler_claims
+0001.835 (R) [notice] Atomic restore: dropping original table (wp_actionscheduler_claims)
+0001.842 (R) [notice] Atomic restore: renaming new table (zk_actionscheduler_claims) to final table name (wp_actionscheduler_claims)
+0001.865 (R) [notice] Recherche et remplacement de table : wp_actionscheduler_claims: lignes : 0
+0001.865 (R) [notice] Traitement de la table (InnoDB):  wp_actionscheduler_groups - sera restauré comme : zk_actionscheduler_groups
+0001.890 (R) [notice] Atomic restore: dropping original table (wp_actionscheduler_groups)
+0001.897 (R) [notice] Atomic restore: renaming new table (zk_actionscheduler_groups) to final table name (wp_actionscheduler_groups)
+0001.916 (R) [notice] Recherche et remplacement de table : wp_actionscheduler_groups: lignes : 1
+0001.916 (R) [notice] Traitement de la table (InnoDB):  wp_actionscheduler_logs - sera restauré comme : zk_actionscheduler_logs
+0001.945 (R) [notice] Atomic restore: dropping original table (wp_actionscheduler_logs)
+0001.954 (R) [notice] Atomic restore: renaming new table (zk_actionscheduler_logs) to final table name (wp_actionscheduler_logs)
+0001.971 (R) [notice] Recherche et remplacement de table : wp_actionscheduler_logs: lignes : 21
+0001.973 (R) [notice] Traitement de la table (MyISAM):  wp_commentmeta - sera restauré comme : zk_commentmeta
+0001.991 (R) [notice] Atomic restore: dropping original table (wp_commentmeta)
+0002.001 (R) [notice] Atomic restore: renaming new table (zk_commentmeta) to final table name (wp_commentmeta)
+0002.021 (R) [notice] Recherche et remplacement de table : wp_commentmeta: lignes : 0
+0002.021 (R) [notice] Traitement de la table (MyISAM):  wp_comments - sera restauré comme : zk_comments
+0002.043 (R) [notice] Atomic restore: dropping original table (wp_comments)
+0002.052 (R) [notice] Atomic restore: renaming new table (zk_comments) to final table name (wp_comments)
+0002.068 (R) [notice] Recherche et remplacement de table : wp_comments: lignes : 1
+0002.069 (R) [notice] Traitement de la table (InnoDB):  wp_imagify_files - sera restauré comme : zk_imagify_files
+0002.119 (R) [notice] Atomic restore: dropping original table (wp_imagify_files)
+0002.126 (R) [notice] Atomic restore: renaming new table (zk_imagify_files) to final table name (wp_imagify_files)
+0002.146 (R) [notice] Recherche et remplacement de table : wp_imagify_files: lignes : 164
+0002.157 (R) [notice] Traitement de la table (InnoDB):  wp_imagify_folders - sera restauré comme : zk_imagify_folders
+0002.193 (R) [notice] Atomic restore: dropping original table (wp_imagify_folders)
+0002.201 (R) [notice] Atomic restore: renaming new table (zk_imagify_folders) to final table name (wp_imagify_folders)
+0002.222 (R) [notice] Recherche et remplacement de table : wp_imagify_folders: lignes : 1
+0002.222 (R) [notice] Traitement de la table (MyISAM):  wp_links - sera restauré comme : zk_links
+0002.240 (R) [notice] Atomic restore: dropping original table (wp_links)
+0002.253 (R) [notice] Atomic restore: renaming new table (zk_links) to final table name (wp_links)
+0002.272 (R) [notice] Recherche et remplacement de table : wp_links: lignes : 0
+0002.272 (R) [notice] Traitement de la table (MyISAM):  wp_postmeta - sera restauré comme : zk_postmeta
+0003.954 (R) [notice] Database queries processed: 50 in 3.72 seconds
+0004.321 (R) [notice] Atomic restore: dropping original table (wp_postmeta)
+0004.335 (R) [notice] Atomic restore: renaming new table (zk_postmeta) to final table name (wp_postmeta)
+0004.410 (R) [notice] Recherche et remplacement de table : wp_postmeta: lignes : 13
+0004.441 (R) [notice] Traitement de la table (MyISAM):  wp_posts - sera restauré comme : zk_posts
+0010.436 (R) [notice] Atomic restore: dropping original table (wp_posts)
+0010.446 (R) [notice] Atomic restore: renaming new table (zk_posts) to final table name (wp_posts)
+0010.479 (R) [notice] Recherche et remplacement de table : wp_posts: lignes : 2355
+0011.284 (R) [notice] Traitement de la table (MyISAM):  wp_term_relationships - sera restauré comme : zk_term_relationships
+0011.309 (R) [notice] Atomic restore: dropping original table (wp_term_relationships)
+0011.320 (R) [notice] Atomic restore: renaming new table (zk_term_relationships) to final table name (wp_term_relationships)
+0011.330 (R) [notice] Skipping this table: data in this table (wp_term_relationships) should not be search/replaced
+0011.330 (R) [notice] Traitement de la table (MyISAM):  wp_term_taxonomy - sera restauré comme : zk_term_taxonomy
+0011.356 (R) [notice] Atomic restore: dropping original table (wp_term_taxonomy)
+0011.368 (R) [notice] Atomic restore: renaming new table (zk_term_taxonomy) to final table name (wp_term_taxonomy)
+0011.426 (R) [notice] Recherche et remplacement de table : wp_term_taxonomy: lignes : 4
+0011.428 (R) [notice] Traitement de la table (MyISAM):  wp_termmeta - sera restauré comme : zk_termmeta
+0011.447 (R) [notice] Atomic restore: dropping original table (wp_termmeta)
+0011.457 (R) [notice] Atomic restore: renaming new table (zk_termmeta) to final table name (wp_termmeta)
+0011.479 (R) [notice] Recherche et remplacement de table : wp_termmeta: lignes : 0
+0011.480 (R) [notice] Traitement de la table (MyISAM):  wp_terms - sera restauré comme : zk_terms
+0011.504 (R) [notice] Atomic restore: dropping original table (wp_terms)
+0011.515 (R) [notice] Atomic restore: renaming new table (zk_terms) to final table name (wp_terms)
+0011.532 (R) [notice] Recherche et remplacement de table : wp_terms: lignes : 4
+0011.533 (R) [notice] Traitement de la table (InnoDB):  wp_aiowps_audit_log - sera restauré comme : zk_aiowps_audit_log
+0011.621 (R) [notice] Database queries processed: 100 in 11.38 seconds
+0011.632 (R) [notice] Atomic restore: dropping original table (wp_aiowps_audit_log)
+0011.640 (R) [notice] Atomic restore: renaming new table (zk_aiowps_audit_log) to final table name (wp_aiowps_audit_log)
+0011.658 (R) [notice] Recherche et remplacement de table : wp_aiowps_audit_log: lignes : 34
+0011.731 (R) [notice] Traitement de la table (InnoDB):  wp_aiowps_debug_log - sera restauré comme : zk_aiowps_debug_log
+0011.752 (R) [notice] Atomic restore: dropping original table (wp_aiowps_debug_log)
+0011.760 (R) [notice] Atomic restore: renaming new table (zk_aiowps_debug_log) to final table name (wp_aiowps_debug_log)
+0011.799 (R) [notice] Recherche et remplacement de table : wp_aiowps_debug_log: lignes : 0
+0011.799 (R) [notice] Traitement de la table (InnoDB):  wp_aiowps_events - sera restauré comme : zk_aiowps_events
+0011.820 (R) [notice] Atomic restore: dropping original table (wp_aiowps_events)
+0011.829 (R) [notice] Atomic restore: renaming new table (zk_aiowps_events) to final table name (wp_aiowps_events)
+0011.849 (R) [notice] Recherche et remplacement de table : wp_aiowps_events: lignes : 0
+0011.849 (R) [notice] Traitement de la table (InnoDB):  wp_aiowps_global_meta - sera restauré comme : zk_aiowps_global_meta
+0011.869 (R) [notice] Atomic restore: dropping original table (wp_aiowps_global_meta)
+0011.875 (R) [notice] Atomic restore: renaming new table (zk_aiowps_global_meta) to final table name (wp_aiowps_global_meta)
+0011.896 (R) [notice] Recherche et remplacement de table : wp_aiowps_global_meta: lignes : 0
+0011.897 (R) [notice] Traitement de la table (InnoDB):  wp_aiowps_logged_in_users - sera restauré comme : zk_aiowps_logged_in_users
+0011.937 (R) [notice] Atomic restore: dropping original table (wp_aiowps_logged_in_users)
+0011.945 (R) [notice] Atomic restore: renaming new table (zk_aiowps_logged_in_users) to final table name (wp_aiowps_logged_in_users)
+0011.964 (R) [notice] Recherche et remplacement de table : wp_aiowps_logged_in_users: lignes : 1
+0011.964 (R) [notice] Traitement de la table (InnoDB):  wp_aiowps_login_lockdown - sera restauré comme : zk_aiowps_login_lockdown
+0011.989 (R) [notice] Atomic restore: dropping original table (wp_aiowps_login_lockdown)
+0011.996 (R) [notice] Atomic restore: renaming new table (zk_aiowps_login_lockdown) to final table name (wp_aiowps_login_lockdown)
+0012.017 (R) [notice] Recherche et remplacement de table : wp_aiowps_login_lockdown: lignes : 0
+0012.017 (R) [notice] Traitement de la table (InnoDB):  wp_aiowps_message_store - sera restauré comme : zk_aiowps_message_store
+0012.040 (R) [notice] Atomic restore: dropping original table (wp_aiowps_message_store)
+0012.048 (R) [notice] Atomic restore: renaming new table (zk_aiowps_message_store) to final table name (wp_aiowps_message_store)
+0012.086 (R) [notice] Recherche et remplacement de table : wp_aiowps_message_store: lignes : 0
+0012.087 (R) [notice] Traitement de la table (InnoDB):  wp_aiowps_permanent_block - sera restauré comme : zk_aiowps_permanent_block
+0012.135 (R) [notice] Atomic restore: dropping original table (wp_aiowps_permanent_block)
+0012.148 (R) [notice] Atomic restore: renaming new table (zk_aiowps_permanent_block) to final table name (wp_aiowps_permanent_block)
+0012.187 (R) [notice] Recherche et remplacement de table : wp_aiowps_permanent_block: lignes : 0
+0012.187 (R) [notice] Traitement de la table (InnoDB):  wp_ewwwio_images - sera restauré comme : zk_ewwwio_images
+0012.218 (R) [notice] Atomic restore: dropping original table (wp_ewwwio_images)
+0012.225 (R) [notice] Atomic restore: renaming new table (zk_ewwwio_images) to final table name (wp_ewwwio_images)
+0012.245 (R) [notice] Recherche et remplacement de table : wp_ewwwio_images: lignes : 0
+0012.245 (R) [notice] Traitement de la table (InnoDB):  wp_ewwwio_queue - sera restauré comme : zk_ewwwio_queue
+0012.268 (R) [notice] Atomic restore: dropping original table (wp_ewwwio_queue)
+0012.276 (R) [notice] Atomic restore: renaming new table (zk_ewwwio_queue) to final table name (wp_ewwwio_queue)
+0012.303 (R) [notice] Recherche et remplacement de table : wp_ewwwio_queue: lignes : 0
+0012.303 (R) [notice] Traitement de la table (InnoDB):  wp_shortpixel_folders - sera restauré comme : zk_shortpixel_folders
+0012.341 (R) [notice] Atomic restore: dropping original table (wp_shortpixel_folders)
+0012.349 (R) [notice] Atomic restore: renaming new table (zk_shortpixel_folders) to final table name (wp_shortpixel_folders)
+0012.375 (R) [notice] Recherche et remplacement de table : wp_shortpixel_folders: lignes : 0
+0012.376 (R) [notice] Traitement de la table (InnoDB):  wp_shortpixel_meta - sera restauré comme : zk_shortpixel_meta
+0012.399 (R) [notice] Atomic restore: dropping original table (wp_shortpixel_meta)
+0012.406 (R) [notice] Atomic restore: renaming new table (zk_shortpixel_meta) to final table name (wp_shortpixel_meta)
+0012.423 (R) [notice] Recherche et remplacement de table : wp_shortpixel_meta: lignes : 0
+0012.424 (R) [notice] Traitement de la table (InnoDB):  wp_shortpixel_postmeta - sera restauré comme : zk_shortpixel_postmeta
+0012.467 (R) [notice] Atomic restore: dropping original table (wp_shortpixel_postmeta)
+0012.474 (R) [notice] Atomic restore: renaming new table (zk_shortpixel_postmeta) to final table name (wp_shortpixel_postmeta)
+0012.493 (R) [notice] Recherche et remplacement de table : wp_shortpixel_postmeta: lignes : 167
+0012.502 (R) [notice] Traitement de la table (InnoDB):  wp_wfauditevents - sera restauré comme : zk_wfauditevents
+0012.541 (R) [notice] Atomic restore: dropping original table (wp_wfauditevents)
+0012.554 (R) [notice] Atomic restore: renaming new table (zk_wfauditevents) to final table name (wp_wfauditevents)
+0012.578 (R) [notice] Recherche et remplacement de table : wp_wfauditevents: lignes : 0
+0012.578 (R) [notice] Traitement de la table (MyISAM):  wp_wfblockediplog - sera restauré comme : zk_wfblockediplog
+0012.603 (R) [notice] Atomic restore: dropping original table (wp_wfblockediplog)
+0012.611 (R) [notice] Atomic restore: renaming new table (zk_wfblockediplog) to final table name (wp_wfblockediplog)
+0012.619 (R) [notice] Skipping this table: data in this table (wp_wfblockediplog) should not be search/replaced
+0012.620 (R) [notice] Traitement de la table (MyISAM):  wp_wfblocks7 - sera restauré comme : zk_wfblocks7
+0012.640 (R) [notice] Atomic restore: dropping original table (wp_wfblocks7)
+0012.649 (R) [notice] Atomic restore: renaming new table (zk_wfblocks7) to final table name (wp_wfblocks7)
+0012.669 (R) [notice] Recherche et remplacement de table : wp_wfblocks7: lignes : 0
+0012.669 (R) [notice] Traitement de la table (MyISAM):  wp_wfconfig - sera restauré comme : zk_wfconfig
+0013.234 (R) [notice] Atomic restore: dropping original table (wp_wfconfig)
+0013.241 (R) [notice] Atomic restore: renaming new table (zk_wfconfig) to final table name (wp_wfconfig)
+0013.273 (R) [notice] Recherche et remplacement de table : wp_wfconfig: lignes : 292
+0013.293 (R) [notice] Traitement de la table (MyISAM):  wp_wfcrawlers - sera restauré comme : zk_wfcrawlers
+0013.317 (R) [notice] Atomic restore: dropping original table (wp_wfcrawlers)
+0013.324 (R) [notice] Atomic restore: renaming new table (zk_wfcrawlers) to final table name (wp_wfcrawlers)
+0013.351 (R) [notice] Recherche et remplacement de table : wp_wfcrawlers: lignes : 6
+0013.352 (R) [notice] Traitement de la table (MyISAM):  wp_wffilechanges - sera restauré comme : zk_wffilechanges
+0013.373 (R) [notice] Atomic restore: dropping original table (wp_wffilechanges)
+0013.381 (R) [notice] Atomic restore: renaming new table (zk_wffilechanges) to final table name (wp_wffilechanges)
+0013.402 (R) [notice] Recherche et remplacement de table : wp_wffilechanges: lignes : 0
+0013.403 (R) [notice] Traitement de la table (MyISAM):  wp_wffilemods - sera restauré comme : zk_wffilemods
+0014.736 (R) [notice] Database queries processed: 150 in 14.50 seconds
+0020.420 (R) [notice] Atomic restore: dropping original table (wp_wffilemods)
+0020.431 (R) [notice] Atomic restore: renaming new table (zk_wffilemods) to final table name (wp_wffilemods)
+0020.442 (R) [notice] Skipping this table: data in this table (wp_wffilemods) should not be search/replaced
+0020.442 (R) [notice] Traitement de la table (MyISAM):  wp_wfhits - sera restauré comme : zk_wfhits
+0020.957 (R) [notice] Atomic restore: dropping original table (wp_wfhits)
+0020.965 (R) [notice] Atomic restore: renaming new table (zk_wfhits) to final table name (wp_wfhits)
+0020.975 (R) [notice] Skipping this table: data in this table (wp_wfhits) should not be search/replaced
+0020.976 (R) [notice] Traitement de la table (MyISAM):  wp_wfhoover - sera restauré comme : zk_wfhoover
+0020.996 (R) [notice] Atomic restore: dropping original table (wp_wfhoover)
+0021.006 (R) [notice] Atomic restore: renaming new table (zk_wfhoover) to final table name (wp_wfhoover)
+0021.039 (R) [notice] Recherche et remplacement de table : wp_wfhoover: lignes : 0
+0021.039 (R) [notice] Traitement de la table (MyISAM):  wp_wfissues - sera restauré comme : zk_wfissues
+0021.071 (R) [notice] Atomic restore: dropping original table (wp_wfissues)
+0021.078 (R) [notice] Atomic restore: renaming new table (zk_wfissues) to final table name (wp_wfissues)
+0021.096 (R) [notice] Recherche et remplacement de table : wp_wfissues: lignes : 37
+0021.109 (R) [notice] Traitement de la table (MyISAM):  wp_wfknownfilelist - sera restauré comme : zk_wfknownfilelist
+0023.191 (R) [notice] Database queries processed: 200 in 22.95 seconds
+0025.421 (R) [notice] Atomic restore: dropping original table (wp_wfknownfilelist)
+0025.431 (R) [notice] Atomic restore: renaming new table (zk_wfknownfilelist) to final table name (wp_wfknownfilelist)
+0025.463 (R) [notice] Recherche et remplacement de table : wp_wfknownfilelist: lignes : 35448
+0026.595 (R) [notice] Searching and replacing reached row: 5000
+0027.668 (R) [notice] Searching and replacing reached row: 10000
+0028.737 (R) [notice] Searching and replacing reached row: 15000
+0029.799 (R) [notice] Searching and replacing reached row: 20000
+0031.004 (R) [notice] Searching and replacing reached row: 25000
+0032.155 (R) [notice] Searching and replacing reached row: 30000
+0033.016 (R) [notice] Searching and replacing reached row: 35000
+0033.082 (R) [notice] Traitement de la table (MyISAM):  wp_wflivetraffichuman - sera restauré comme : zk_wflivetraffichuman
+0033.100 (R) [notice] Atomic restore: dropping original table (wp_wflivetraffichuman)
+0033.107 (R) [notice] Atomic restore: renaming new table (zk_wflivetraffichuman) to final table name (wp_wflivetraffichuman)
+0033.160 (R) [notice] Recherche et remplacement de table : wp_wflivetraffichuman: lignes : 0
+0033.161 (R) [notice] Traitement de la table (MyISAM):  wp_wflocs - sera restauré comme : zk_wflocs
+0033.180 (R) [notice] Atomic restore: dropping original table (wp_wflocs)
+0033.187 (R) [notice] Atomic restore: renaming new table (zk_wflocs) to final table name (wp_wflocs)
+0033.203 (R) [notice] Recherche et remplacement de table : wp_wflocs: lignes : 1
+0033.204 (R) [notice] Traitement de la table (MyISAM):  wp_wflogins - sera restauré comme : zk_wflogins
+0033.302 (R) [notice] Atomic restore: dropping original table (wp_wflogins)
+0033.311 (R) [notice] Atomic restore: renaming new table (zk_wflogins) to final table name (wp_wflogins)
+0033.329 (R) [notice] Recherche et remplacement de table : wp_wflogins: lignes : 1451
+0033.385 (R) [notice] Traitement de la table (InnoDB):  wp_wfls_2fa_secrets - sera restauré comme : zk_wfls_2fa_secrets
+0033.416 (R) [notice] Atomic restore: dropping original table (wp_wfls_2fa_secrets)
+0033.424 (R) [notice] Atomic restore: renaming new table (zk_wfls_2fa_secrets) to final table name (wp_wfls_2fa_secrets)
+0033.458 (R) [notice] Recherche et remplacement de table : wp_wfls_2fa_secrets: lignes : 0
+0033.458 (R) [notice] Traitement de la table (InnoDB):  wp_wfls_passkeys - sera restauré comme : zk_wfls_passkeys
+0033.483 (R) [notice] Atomic restore: dropping original table (wp_wfls_passkeys)
+0033.491 (R) [notice] Atomic restore: renaming new table (zk_wfls_passkeys) to final table name (wp_wfls_passkeys)
+0033.518 (R) [notice] Recherche et remplacement de table : wp_wfls_passkeys: lignes : 0
+0033.518 (R) [notice] Traitement de la table (MEMORY):  wp_wfls_role_counts - sera restauré comme : zk_wfls_role_counts
+0033.534 (R) [notice] Atomic restore: dropping original table (wp_wfls_role_counts)
+0033.543 (R) [notice] Atomic restore: renaming new table (zk_wfls_role_counts) to final table name (wp_wfls_role_counts)
+0033.558 (R) [notice] Recherche et remplacement de table : wp_wfls_role_counts: lignes : 0
+0033.558 (R) [notice] Traitement de la table (InnoDB):  wp_wfls_settings - sera restauré comme : zk_wfls_settings
+0033.695 (R) [notice] Atomic restore: dropping original table (wp_wfls_settings)
+0033.704 (R) [notice] Atomic restore: renaming new table (zk_wfls_settings) to final table name (wp_wfls_settings)
+0033.729 (R) [notice] Recherche et remplacement de table : wp_wfls_settings: lignes : 42
+0033.732 (R) [notice] Traitement de la table (MyISAM):  wp_wfnotifications - sera restauré comme : zk_wfnotifications
+0033.753 (R) [notice] Atomic restore: dropping original table (wp_wfnotifications)
+0033.760 (R) [notice] Atomic restore: renaming new table (zk_wfnotifications) to final table name (wp_wfnotifications)
+0033.774 (R) [notice] Recherche et remplacement de table : wp_wfnotifications: lignes : 15
+0033.777 (R) [notice] Traitement de la table (MyISAM):  wp_wfpendingissues - sera restauré comme : zk_wfpendingissues
+0033.799 (R) [notice] Atomic restore: dropping original table (wp_wfpendingissues)
+0033.806 (R) [notice] Atomic restore: renaming new table (zk_wfpendingissues) to final table name (wp_wfpendingissues)
+0033.820 (R) [notice] Recherche et remplacement de table : wp_wfpendingissues: lignes : 3
+0033.822 (R) [notice] Traitement de la table (MyISAM):  wp_wfreversecache - sera restauré comme : zk_wfreversecache
+0033.840 (R) [notice] Atomic restore: dropping original table (wp_wfreversecache)
+0033.848 (R) [notice] Atomic restore: renaming new table (zk_wfreversecache) to final table name (wp_wfreversecache)
+0033.861 (R) [notice] Recherche et remplacement de table : wp_wfreversecache: lignes : 1
+0033.861 (R) [notice] Traitement de la table (MyISAM):  wp_wfsecurityevents - sera restauré comme : zk_wfsecurityevents
+0033.878 (R) [notice] Atomic restore: dropping original table (wp_wfsecurityevents)
+0033.885 (R) [notice] Atomic restore: renaming new table (zk_wfsecurityevents) to final table name (wp_wfsecurityevents)
+0033.902 (R) [notice] Recherche et remplacement de table : wp_wfsecurityevents: lignes : 0
+0033.902 (R) [notice] Traitement de la table (MyISAM):  wp_wfsnipcache - sera restauré comme : zk_wfsnipcache
+0033.919 (R) [notice] Atomic restore: dropping original table (wp_wfsnipcache)
+0033.926 (R) [notice] Atomic restore: renaming new table (zk_wfsnipcache) to final table name (wp_wfsnipcache)
+0033.943 (R) [notice] Recherche et remplacement de table : wp_wfsnipcache: lignes : 0
+0033.943 (R) [notice] Traitement de la table (MyISAM):  wp_wfstatus - sera restauré comme : zk_wfstatus
+0034.003 (R) [notice] Atomic restore: dropping original table (wp_wfstatus)
+0034.010 (R) [notice] Atomic restore: renaming new table (zk_wfstatus) to final table name (wp_wfstatus)
+0034.028 (R) [notice] Recherche et remplacement de table : wp_wfstatus: lignes : 941
+0034.052 (R) [notice] Traitement de la table (MyISAM):  wp_wftrafficrates - sera restauré comme : zk_wftrafficrates
+0034.070 (R) [notice] Atomic restore: dropping original table (wp_wftrafficrates)
+0034.077 (R) [notice] Atomic restore: renaming new table (zk_wftrafficrates) to final table name (wp_wftrafficrates)
+0034.094 (R) [notice] Recherche et remplacement de table : wp_wftrafficrates: lignes : 0
+0034.095 (R) [notice] Traitement de la table (MyISAM):  wp_wfwaffailures - sera restauré comme : zk_wfwaffailures
+0034.113 (R) [notice] Atomic restore: dropping original table (wp_wfwaffailures)
+0034.120 (R) [notice] Database queries processed: 250 in 33.88 seconds
+0034.120 (R) [notice] Atomic restore: renaming new table (zk_wfwaffailures) to final table name (wp_wfwaffailures)
+0034.136 (R) [notice] Recherche et remplacement de table : wp_wfwaffailures: lignes : 0
+0034.136 (R) [notice] Traitement de la table (InnoDB):  wp_wpc_accesslocks - sera restauré comme : zk_wpc_accesslocks
+0034.156 (R) [notice] Atomic restore: dropping original table (wp_wpc_accesslocks)
+0034.163 (R) [notice] Atomic restore: renaming new table (zk_wpc_accesslocks) to final table name (wp_wpc_accesslocks)
+0034.177 (R) [notice] Recherche et remplacement de table : wp_wpc_accesslocks: lignes : 0
+0034.177 (R) [notice] Traitement de la table (InnoDB):  wp_wpc_login_fails - sera restauré comme : zk_wpc_login_fails
+0034.196 (R) [notice] Atomic restore: dropping original table (wp_wpc_login_fails)
+0034.203 (R) [notice] Atomic restore: renaming new table (zk_wpc_login_fails) to final table name (wp_wpc_login_fails)
+0034.226 (R) [notice] Recherche et remplacement de table : wp_wpc_login_fails: lignes : 0
+0034.227 (R) [notice] Traitement de la table (InnoDB):  wp_wpsmtp_logs - sera restauré comme : zk_wpsmtp_logs
+0035.241 (R) [notice] Atomic restore: dropping original table (wp_wpsmtp_logs)
+0035.248 (R) [notice] Atomic restore: renaming new table (zk_wpsmtp_logs) to final table name (wp_wpsmtp_logs)
+0035.283 (R) [notice] Recherche et remplacement de table : wp_wpsmtp_logs: lignes : 517
+0036.382 (R) [notice] Traitement de la table (MyISAM):  wp_yoast_indexable - sera restauré comme : zk_yoast_indexable
+0036.412 (R) [notice] Atomic restore: dropping original table (wp_yoast_indexable)
+0036.420 (R) [notice] Atomic restore: renaming new table (zk_yoast_indexable) to final table name (wp_yoast_indexable)
+0036.445 (R) [notice] Recherche et remplacement de table : wp_yoast_indexable: lignes : 34
+0036.456 (R) [notice] Traitement de la table (MyISAM):  wp_yoast_indexable_hierarchy - sera restauré comme : zk_yoast_indexable_hierarchy
+0036.477 (R) [notice] Atomic restore: dropping original table (wp_yoast_indexable_hierarchy)
+0036.484 (R) [notice] Atomic restore: renaming new table (zk_yoast_indexable_hierarchy) to final table name (wp_yoast_indexable_hierarchy)
+0036.500 (R) [notice] Recherche et remplacement de table : wp_yoast_indexable_hierarchy: lignes : 31
+0036.501 (R) [notice] Traitement de la table (MyISAM):  wp_yoast_migrations - sera restauré comme : zk_yoast_migrations
+0036.525 (R) [notice] Atomic restore: dropping original table (wp_yoast_migrations)
+0036.532 (R) [notice] Atomic restore: renaming new table (zk_yoast_migrations) to final table name (wp_yoast_migrations)
+0036.547 (R) [notice] Recherche et remplacement de table : wp_yoast_migrations: lignes : 24
+0036.548 (R) [notice] Traitement de la table (MyISAM):  wp_yoast_primary_term - sera restauré comme : zk_yoast_primary_term
+0036.566 (R) [notice] Atomic restore: dropping original table (wp_yoast_primary_term)
+0036.573 (R) [notice] Atomic restore: renaming new table (zk_yoast_primary_term) to final table name (wp_yoast_primary_term)
+0036.598 (R) [notice] Recherche et remplacement de table : wp_yoast_primary_term: lignes : 0
+0036.598 (R) [notice] Traitement de la table (MyISAM):  wp_yoast_seo_links - sera restauré comme : zk_yoast_seo_links
+0036.643 (R) [notice] Désactivation du mode maintenance&#8230;
+0036.644 (R) [notice] Atomic restore: dropping original table (wp_yoast_seo_links)
+0036.652 (R) [notice] Atomic restore: renaming new table (zk_yoast_seo_links) to final table name (wp_yoast_seo_links)
+0036.668 (R) [notice] Recherche et remplacement de table : wp_yoast_seo_links: lignes : 473
+0036.756 (R) [notice] Finished: lines processed: 279 in 36.52 seconds
+0036.758 (R) [notice] Nettoyage…
+0036.759 (R) [notice] Database search and replace: replace https://jardi-creation.fr in backup dump with http://localhost/jardi-creation
+0036.759 (R) [notice] Database search and replace: replace http://www.jardi-creation.fr in backup dump with http://localhost/jardi-creation
+0036.760 (R) [notice] Database search and replace: replace http://jardi-creation.fr in backup dump with http://localhost/jardi-creation
+0036.760 (R) [notice] Database search and replace: replace https://www.jardi-creation.fr in backup dump with http://localhost/jardi-creation
+0036.760 (R) [notice] Database search and replace: replace /home/clients/a750890fd7f09a833d86bd4c7a6acfe0/sites/jardi-creation.fr in backup dump with C:\xampp8\htdocs\jardi-creation
+0036.761 (R) [notice] Recherche et remplacement de table : wp_actionscheduler_actions: déjà fait
+0036.761 (R) [notice] Recherche et remplacement de table : wp_actionscheduler_claims: déjà fait
+0036.761 (R) [notice] Recherche et remplacement de table : wp_actionscheduler_groups: déjà fait
+0036.761 (R) [notice] Recherche et remplacement de table : wp_actionscheduler_logs: déjà fait
+0036.761 (R) [notice] Recherche et remplacement de table : wp_aiowps_audit_log: déjà fait
+0036.761 (R) [notice] Recherche et remplacement de table : wp_aiowps_debug_log: déjà fait
+0036.761 (R) [notice] Recherche et remplacement de table : wp_aiowps_events: déjà fait
+0036.761 (R) [notice] Recherche et remplacement de table : wp_aiowps_global_meta: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_aiowps_logged_in_users: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_aiowps_login_lockdown: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_aiowps_message_store: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_aiowps_permanent_block: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_commentmeta: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_comments: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_ewwwio_images: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_ewwwio_queue: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_imagify_files: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_imagify_folders: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_links: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_options: déjà fait
+0036.762 (R) [notice] Recherche et remplacement de table : wp_postmeta: déjà fait
+0036.763 (R) [notice] Recherche et remplacement de table : wp_posts: déjà fait
+0036.763 (R) [notice] Recherche et remplacement de table : wp_shortpixel_folders: déjà fait
+0036.763 (R) [notice] Recherche et remplacement de table : wp_shortpixel_meta: déjà fait
+0036.763 (R) [notice] Recherche et remplacement de table : wp_shortpixel_postmeta: déjà fait
+0036.763 (R) [notice] Recherche et remplacement de table : wp_term_relationships: déjà fait
+0036.764 (R) [notice] Recherche et remplacement de table : wp_term_taxonomy: déjà fait
+0036.764 (R) [notice] Recherche et remplacement de table : wp_termmeta: déjà fait
+0036.764 (R) [notice] Recherche et remplacement de table : wp_terms: déjà fait
+0036.764 (R) [notice] Recherche et remplacement de table : wp_usermeta: déjà fait
+0036.764 (R) [notice] Recherche et remplacement de table : wp_users: déjà fait
+0036.764 (R) [notice] Recherche et remplacement de table : wp_wfauditevents: déjà fait
+0036.764 (R) [notice] Recherche et remplacement de table : wp_wfblockediplog: déjà fait
+0036.765 (R) [notice] Recherche et remplacement de table : wp_wfblocks7: déjà fait
+0036.765 (R) [notice] Recherche et remplacement de table : wp_wfconfig: déjà fait
+0036.765 (R) [notice] Recherche et remplacement de table : wp_wfcrawlers: déjà fait
+0036.765 (R) [notice] Recherche et remplacement de table : wp_wffilechanges: déjà fait
+0036.765 (R) [notice] Recherche et remplacement de table : wp_wffilemods: déjà fait
+0036.765 (R) [notice] Recherche et remplacement de table : wp_wfhits: déjà fait
+0036.766 (R) [notice] Recherche et remplacement de table : wp_wfhoover: déjà fait
+0036.766 (R) [notice] Recherche et remplacement de table : wp_wfissues: déjà fait
+0036.766 (R) [notice] Recherche et remplacement de table : wp_wfknownfilelist: déjà fait
+0036.766 (R) [notice] Recherche et remplacement de table : wp_wflivetraffichuman: déjà fait
+0036.766 (R) [notice] Recherche et remplacement de table : wp_wflocs: déjà fait
+0036.766 (R) [notice] Recherche et remplacement de table : wp_wflogins: déjà fait
+0036.766 (R) [notice] Recherche et remplacement de table : wp_wfls_2fa_secrets: déjà fait
+0036.766 (R) [notice] Recherche et remplacement de table : wp_wfls_passkeys: déjà fait
+0036.767 (R) [notice] Recherche et remplacement de table : wp_wfls_role_counts: déjà fait
+0036.767 (R) [notice] Recherche et remplacement de table : wp_wfls_settings: déjà fait
+0036.767 (R) [notice] Recherche et remplacement de table : wp_wfnotifications: déjà fait
+0036.767 (R) [notice] Recherche et remplacement de table : wp_wfpendingissues: déjà fait
+0036.767 (R) [notice] Recherche et remplacement de table : wp_wfreversecache: déjà fait
+0036.767 (R) [notice] Recherche et remplacement de table : wp_wfsecurityevents: déjà fait
+0036.767 (R) [notice] Recherche et remplacement de table : wp_wfsnipcache: déjà fait
+0036.768 (R) [notice] Recherche et remplacement de table : wp_wfstatus: déjà fait
+0036.768 (R) [notice] Recherche et remplacement de table : wp_wftrafficrates: déjà fait
+0036.768 (R) [notice] Recherche et remplacement de table : wp_wfwaffailures: déjà fait
+0036.768 (R) [notice] Recherche et remplacement de table : wp_wpc_accesslocks: déjà fait
+0036.768 (R) [notice] Recherche et remplacement de table : wp_wpc_login_fails: déjà fait
+0036.768 (R) [notice] Recherche et remplacement de table : wp_wpsmtp_logs: déjà fait
+0036.768 (R) [notice] Recherche et remplacement de table : wp_yoast_indexable: déjà fait
+0036.768 (R) [notice] Recherche et remplacement de table : wp_yoast_indexable_hierarchy: déjà fait
+0036.769 (R) [notice] Recherche et remplacement de table : wp_yoast_migrations: déjà fait
+0036.769 (R) [notice] Recherche et remplacement de table : wp_yoast_primary_term: déjà fait
+0036.769 (R) [notice] Recherche et remplacement de table : wp_yoast_seo_links: déjà fait
+0036.769 (R) [notice] Tables examinées : 61
+0036.769 (R) [notice] Lignes examinées : 42835
+0036.769 (R) [notice] Changement fait : 37440
+0036.769 (R) [notice] Les commandes d’actualisation SQL s’exécutent : 37400
+0036.769 (R) [notice] Erreurs : 0
+0036.769 (R) [notice] Temps mis (secondes) : 10.833
+0036.778 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-mu-plugins.zip, 0 MB)
+0036.832 (R) [notice] Progression de la décompression : 2 sur 2 fichiers (280 B, mu-plugins/aios-firewall-loader.php)
+0036.833 (R) [notice] Mise de côté des anciennes données…
+0036.834 (R) [notice] Déplacement de la sauvegarde décompressée…
+0036.837 (R) [notice] Nettoyage…
+0036.842 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-plugins.zip, 24.8 MB)
+0038.602 (R) [notice] Progression de la décompression : 1554 sur 6386 fichiers (2.1 KB, plugins/akismet/_inc/fonts/inter.css)
+0044.637 (R) [notice] Progression de la décompression : 2555 sur 6386 fichiers (8.1 MB, plugins/imagify/vendor/composer/installers/src/Composer/Installers/KodiCMSInstaller.php)
+0055.428 (R) [notice] Progression de la décompression : 3556 sur 6386 fichiers (23.1 MB, plugins/slide-anything/images/icon_prev.png)
+0063.608 (R) [notice] Progression de la décompression : 4557 sur 6386 fichiers (38.2 MB, plugins/wordpress-seo/packages/js/images/icon-twitter.svg)
+0067.989 (R) [notice] Progression de la décompression : 5558 sur 6386 fichiers (44.3 MB, plugins/all-in-one-wp-security-and-firewall/classes/firewall/rule/rules/bots/rule-ban-post-blank-headers.php)
+0072.036 (R) [notice] Progression de la décompression : 6386 sur 6386 fichiers (57.2 MB, plugins/updraftplus/includes/class-wpadmin-commands.php)
+0072.048 (R) [notice] Mise de côté des anciennes données…
+0072.781 (R) [notice] Déplacement de la sauvegarde décompressée…
+0075.271 (R) [notice] Nettoyage…
+0075.278 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-plugins2.zip, 18.4 MB)
+0079.710 (R) [notice] Progression de la décompression : 1002 sur 3741 fichiers (17.3 MB, plugins/updraftplus/vendor/team-updraft/lib-onboarding-wizard/Wizard/Onboarding/src/components/Fields/Checkbox.jsx)
+0085.043 (R) [notice] Progression de la décompression : 2003 sur 3741 fichiers (48.8 MB, plugins/google-site-kit/includes/Core/Modules/Permission_Aware_Datapoint.php)
+0089.461 (R) [notice] Progression de la décompression : 3004 sur 3741 fichiers (52.9 MB, plugins/google-site-kit/third-party/google/apiclient-services-tagmanager.v2/src/TagManager/ListWorkspacesResponse.php)
+0092.367 (R) [notice] Progression de la décompression : 3741 sur 3741 fichiers (57.4 MB, plugins/google-site-kit/uninstall.php)
+0092.369 (R) [notice] Déplacement de la sauvegarde décompressée…
+0101.044 (R) [notice] Nettoyage…
+0101.055 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-themes.zip, 25.7 MB)
+0108.854 (R) [notice] Progression de la décompression : 1002 sur 2073 fichiers (14.7 MB, themes/Divi/includes/builder/feature/et-server-frame.php)
+0123.331 (R) [notice] Progression de la décompression : 2003 sur 2073 fichiers (65.5 MB, themes/twentytwentyfour/patterns/gallery-offset-images-grid-4-col.php)
+0124.704 (R) [notice] Progression de la décompression : 2073 sur 2073 fichiers (66.4 MB, themes/index.php)
+0124.709 (R) [notice] Mise de côté des anciennes données…
+0124.946 (R) [notice] Déplacement de la sauvegarde décompressée…
+0126.124 (R) [notice] Nettoyage…
+0126.134 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-themes2.zip, 0 MB)
+0126.624 (R) [notice] Déplacement de la sauvegarde décompressée…
+0127.685 (R) [notice] Nettoyage…
+0127.697 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads.zip, 25 MB)
+0129.009 (R) [notice] Progression de la décompression : 206 sur 206 fichiers (25 MB, uploads/2023/08/laurier-rose-haute-tige-400x284.jpg)
+0129.012 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads2.zip, 31.6 MB)
+0130.332 (R) [notice] Progression de la décompression : 184 sur 184 fichiers (31.7 MB, uploads/2023/08/Galets.pdf)
+0130.337 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads3.zip, 25.4 MB)
+0130.852 (R) [notice] Progression de la décompression : 192 sur 192 fichiers (25.3 MB, uploads/2023/08/Pont-Galerne-150DPI.jpg)
+0130.854 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads4.zip, 25.4 MB)
+0131.301 (R) [notice] Progression de la décompression : 159 sur 159 fichiers (25.4 MB, uploads/2023/08/erable-du-japon-dissectum-tige-grand-exemplaire-980x1307.jpeg)
+0131.303 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads5.zip, 25.1 MB)
+0132.066 (R) [notice] Progression de la décompression : 217 sur 217 fichiers (25.1 MB, uploads/2023/08/gallery33-1080x810.jpg)
+0132.068 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads6.zip, 25.2 MB)
+0132.603 (R) [notice] Progression de la décompression : 212 sur 212 fichiers (25.1 MB, uploads/2023/08/cactus-5-1536x2048.jpeg)
+0132.605 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads7.zip, 25.1 MB)
+0133.223 (R) [notice] Progression de la décompression : 202 sur 202 fichiers (25 MB, uploads/2023/08/TerrasseetPiscine_150DPI-480x360.jpg)
+0133.229 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads8.zip, 25.1 MB)
+0133.710 (R) [notice] Progression de la décompression : 120 sur 120 fichiers (25.1 MB, uploads/2023/08/erable-du-japon-purpureum-scaled.jpeg)
+0133.712 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads9.zip, 25.4 MB)
+0134.310 (R) [notice] Progression de la décompression : 242 sur 242 fichiers (25.3 MB, uploads/2023/08/bouddha-pierre-taille.jpg)
+0134.313 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads10.zip, 25.3 MB)
+0135.092 (R) [notice] Progression de la décompression : 249 sur 249 fichiers (25.2 MB, uploads/2023/08/fougere-anthartica-grand-exemplaire-1-scaled.jpeg)
+0135.094 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads11.zip, 25.1 MB)
+0135.400 (R) [notice] Progression de la décompression : 109 sur 109 fichiers (25 MB, uploads/2023/08/kiwi-400x360.jpg)
+0135.403 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads12.zip, 28.5 MB)
+0135.933 (R) [notice] Progression de la décompression : 176 sur 176 fichiers (28.5 MB, uploads/2023/08/fougere-anthartica-grand-exemplaire-1.jpeg)
+0135.937 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads13.zip, 25 MB)
+0136.603 (R) [notice] Progression de la décompression : 228 sur 228 fichiers (25 MB, uploads/2023/08/Arroseur-turbine-300x243.jpg)
+0136.606 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads14.zip, 25.5 MB)
+0137.254 (R) [notice] Progression de la décompression : 237 sur 237 fichiers (25.4 MB, uploads/2023/08/madagascar.jpg)
+0137.256 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads15.zip, 25.6 MB)
+0137.651 (R) [notice] Progression de la décompression : 133 sur 133 fichiers (25.6 MB, uploads/2023/08/gallery09.jpg)
+0137.653 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads16.zip, 25 MB)
+0138.252 (R) [notice] Progression de la décompression : 210 sur 210 fichiers (25 MB, uploads/2023/08/bouddha-180cm-400x250.jpg)
+0138.256 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads17.zip, 25.8 MB)
+0138.767 (R) [notice] Progression de la décompression : 158 sur 158 fichiers (25.7 MB, uploads/2023/08/erable-du-japon-dissectum-tige-pourpre-2880x1800.jpeg)
+0138.769 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads18.zip, 25 MB)
+0139.218 (R) [notice] Progression de la décompression : 182 sur 182 fichiers (25 MB, uploads/2023/08/Pergolas-Esterel-150DPI-300x227.jpg)
+0139.221 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads19.zip, 25.2 MB)
+0139.578 (R) [notice] Progression de la décompression : 127 sur 127 fichiers (25.2 MB, uploads/2023/08/cactus-4-1280x1707.jpeg)
+0139.580 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads20.zip, 25.1 MB)
+0140.106 (R) [notice] Progression de la décompression : 195 sur 195 fichiers (25 MB, uploads/2023/08/juniperus-pacific-bleue-480x640.jpg)
+0140.110 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads21.zip, 25.9 MB)
+0140.568 (R) [notice] Progression de la décompression : 162 sur 162 fichiers (25.9 MB, uploads/2023/08/cactus-3-2880x1800.jpeg)
+0140.571 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads22.zip, 25.2 MB)
+0141.080 (R) [notice] Progression de la décompression : 188 sur 188 fichiers (25.2 MB, uploads/2023/09/Cloture-Mikado-150DPI-1080x675.jpg)
+0141.083 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads23.zip, 25.2 MB)
+0141.782 (R) [notice] Progression de la décompression : 276 sur 276 fichiers (25.2 MB, uploads/2023/09/2.6-orange-corail.jpg)
+0141.786 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads24.zip, 25.2 MB)
+0142.427 (R) [notice] Progression de la décompression : 265 sur 265 fichiers (25.1 MB, uploads/2023/09/pas-japonais-gris-clair.jpg)
+0142.430 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads25.zip, 25.2 MB)
+0143.107 (R) [notice] Progression de la décompression : 264 sur 264 fichiers (25.1 MB, uploads/2023/09/barrette-dardoise-1080x810.jpg)
+0143.112 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads26.zip, 25.2 MB)
+0143.764 (R) [notice] Progression de la décompression : 267 sur 267 fichiers (25.2 MB, uploads/2023/09/banner-2-1080x675.jpg)
+0143.766 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads27.zip, 25.1 MB)
+0144.400 (R) [notice] Progression de la décompression : 251 sur 251 fichiers (25 MB, uploads/2023/09/brique-pilee-rouge-orangee.jpg)
+0144.402 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads28.zip, 25.1 MB)
+0145.078 (R) [notice] Progression de la décompression : 253 sur 253 fichiers (25.1 MB, uploads/2023/09/galet-de-garonne-gris-900x675.jpg)
+0145.080 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads29.zip, 25.7 MB)
+0145.742 (R) [notice] Progression de la décompression : 259 sur 259 fichiers (25.6 MB, uploads/2023/09/banner-2.jpg)
+0145.743 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads30.zip, 25.2 MB)
+0146.648 (R) [notice] Progression de la décompression : 312 sur 312 fichiers (25.1 MB, uploads/2023/10/35.1-1000x675.jpg.webp)
+0146.651 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads31.zip, 25.1 MB)
+0147.571 (R) [notice] Progression de la décompression : 361 sur 361 fichiers (25.1 MB, uploads/2023/_09/paillage-bois-1024x597.jpg)
+0147.575 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads32.zip, 25.1 MB)
+0148.291 (R) [notice] Progression de la décompression : 263 sur 263 fichiers (25.1 MB, uploads/2023/_09/7-1080x675.jpg)
+0148.295 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads33.zip, 25.1 MB)
+0149.035 (R) [notice] Progression de la décompression : 255 sur 255 fichiers (25.1 MB, uploads/2023/_09/laurier-rose-rose.jpg)
+0149.038 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads34.zip, 25.2 MB)
+0149.515 (R) [notice] Progression de la décompression : 164 sur 164 fichiers (25.1 MB, uploads/ShortpixelBackups/wp-content/uploads/2023/09/roule-gris-20.40-768x1024.jpg)
+0149.518 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-uploads35.zip, 2.4 MB)
+0149.609 (R) [notice] Progression de la décompression : 21 sur 21 fichiers (2.4 MB, uploads/webp-express-test-conversion.webp)
+0151.290 (R) [notice] Décompression de la sauvegarde… (backup_2026-11-25-0752_JARDI_CREATION_ef23565be804-others.zip, 10.7 MB)
+0153.497 (R) [notice] Progression de la décompression : 724 sur 724 fichiers (35.3 MB, advanced-cache.php)
+0153.506 (R) [notice] advanced-cache.php: Skipping cache file (does not already exist)
+0153.600 (R) [notice] Nettoyage…
+0153.602 (R) [notice] Error: Impossible de détruire le répertoire de travail après la restauration. (C:/xampp8/htdocs/jardi-creation/wp-content/upgrade/a27eb381)
+0153.605 (R) [notice] Fichiers trouvés :
+0153.605 (R) [notice] * upgrade
+0156.212 (R) [notice] Restore successful!
