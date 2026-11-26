@@ -85,7 +85,10 @@ $table_prefix = 'wp_';
  *
  * @link https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/
  */
-define( 'WP_DEBUG', false );
+if ( file_exists( __DIR__ . '/wp-config-local.php' ) ) {
+	require __DIR__ . '/wp-config-local.php';
+}
+defined( 'WP_DEBUG' ) || define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
 

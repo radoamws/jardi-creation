@@ -1,1 +1,5 @@
 wp-config.php
+# Local
+wp-content/debug.log
+wp-config-local.php
+wp-content/et-cache/
